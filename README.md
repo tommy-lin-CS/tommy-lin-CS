@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-✨ I'm currently Computer Science in my third year at SUNY Stony Brook.<br>
+✨ I'm currently studying Computer Science in my third year at SUNY Stony Brook.<br>
 😄 Pronouns: He/Him/His<br>
 🔭 Interested in Web & Mobile Development and Security.
 
