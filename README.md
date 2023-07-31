@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-✨ I'm currently studying Computer Science & Appled Mathematics and Statistics in my senior year at SUNY Stony Brook.<br>
+✨ I'm a senior double majoring in Computer Science & Applied Mathematics and Statistics at SUNY Stony Brook.<br>
 😄 Pronouns: He/Him/His<br>
 🔭 Interested in Web & Mobile Development and Security.
 
