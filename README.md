@@ -3,7 +3,7 @@
 # 💫 About Me:
 ✨ I'm a senior double majoring in Computer Science & Applied Mathematics and Statistics at SUNY Stony Brook.<br>
 😄 Pronouns: He/Him/His<br>
-🔭 Interested in Web & Mobile Development and Security.
+🔭 Specializing in Artificial Intelligence and Data Science.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tmmylin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tmmylin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-tommy) 
